@@ -1,0 +1,17 @@
+{
+  "name": "STS2 Sync & Tools",
+  "short_name": "STS2 Sync",
+  "description": "Slay the Spire 2 Card Generator and Encyclopedia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0f",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "Resources/ui_atlas_0.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
